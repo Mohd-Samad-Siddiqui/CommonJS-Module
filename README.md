@@ -1,5 +1,6 @@
- What is a module? 
- A module is just a piece of code in a file that you can call and use from other files.
+ What is Module? 
+ ---------------
+A module is just a piece of code in a file that you can call and use from other files.
 When developing a big project, it's very useful to divide our code into modules for the following reasons:
 1. Code tends to be easier to maintain and less prone to errors and bugs when it's clearly organized.
 2. Modules can be easily used and reused in different files and parts of our project, without needing to rewrite the same code again.
